@@ -1,0 +1,8 @@
+[2022-09-15T18:01:26.651] [ERROR] default - localServer: 管道返回程序路径与配置中程序路径不符
+管道返回路径：D:\Job\newdzqzclient\service\win\dzqzClientServer.exe
+应为路径：D:\Job\newdzqzclient\build\win-ia32-unpacked\resources\dzqzClientServer.exe
+[2022-09-15T18:01:26.651] [ERROR] default - localServer: 检查服务连接状态异常，直接退出
+[2022-09-15T18:02:41.791] [ERROR] default - localServer: 管道返回程序路径与配置中程序路径不符
+管道返回路径：D:\Job\newdzqzclient\service\win\dzqzClientServer.exe
+应为路径：D:\Job\newdzqzclient\build\win-ia32-unpacked\resources\dzqzClientServer.exe
+[2022-09-15T18:02:41.792] [ERROR] default - localServer: 检查服务连接状态异常，直接退出
